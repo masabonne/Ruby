@@ -1,3 +1,4 @@
+# -*- encoding: utf-8 -*-
 def del_svn_dir(path)
 require "fileutils"
   path = "." if path == nil

@@ -1,3 +1,4 @@
+# -*- encoding: utf-8 -*-
 =begin
 	名前：concat_files
 	概要：あるディレクトリ以下のある拡張子のファイルをすべて結合します

@@ -1,3 +1,4 @@
+# -*- encoding: utf-8 -*-
 def collective_convert(dir)
 	#デフォルトはconvertingフォルダ内のファイルが対象
 	dir = "converting" if dir == nil

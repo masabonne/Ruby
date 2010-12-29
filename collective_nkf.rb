@@ -1,3 +1,4 @@
+# -*- encoding: utf-8 -*-
 def collective_nkf(dir)
 	require 'nkf'
 	#デフォルトはconvertingフォルダ内のファイルが対象
